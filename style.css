@@ -61,3 +61,83 @@ max-width: 1200px;
     background-color: #FF7A00;
     cursor: pointer;
 }
+
+.surat{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    padding: 0 30px;
+}
+.giving{
+    max-width: 1200px;
+    margin: auto;
+    width: 45%;
+    height: 400px;
+    
+}
+.h1{
+    max-width: 1200px;
+    margin: auto;
+    font-size: 60px;
+    font-weight: 800;
+    padding: 0 0px;
+}
+.xat{
+    max-width: 1200px;
+    margin: auto;
+    border-top: 5px solid #FF9C08;
+    padding: 20px 0px;
+    margin-right: 15px;
+}
+.img{
+    max-width: 1200px;
+    margin: auto;
+    width: 700px;
+    height: 800px;
+    margin-right: -200px;
+}
+.giving p{
+    
+    max-width: 1200px;
+    margin: auto;
+    font-size: 24px;
+    padding: 20px 0px;
+    line-height: 40px;
+}
+.button2{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    
+    gap: 20px;
+}
+.donate2{
+    max-width: 1200px;
+    margin: auto;
+    width: 180px;
+    height: 70px;
+    background-color: #FF9C08;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-left: -5px;
+}
+.learn{
+    max-width: 1200px;
+    margin: auto;
+    width: 180px;
+    height: 70px;
+    border: 2px solid #FF9C08;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-left: -40px;
+}
