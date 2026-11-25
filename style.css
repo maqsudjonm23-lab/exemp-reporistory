@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    max-width: 1200px;
+    margin: auto;   
+}
+.bolo{
+    max-width: 1200px;
+    margin: auto;
+    Display: flex;
+    align-items: center;
+    padding: 40px 20px;
+}
+.chap{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    padding: 0 30px;
+}
+.phil{
+    max-width: 1200px;
+    margin: auto;
+    font-size: 24px;
+    font-weight: 700;
+    padding: 0 10px;
+}
+
+.mobayn{
+max-width: 1200px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    font-size: 20px;
+}
+.rost{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 0 30px;
+    padding-left: 450px;
+}
+.donate{
+    max-width: 1200px;
+    margin: auto;
+    width: 200px;
+    height: 50px;
+    background-color: #FF9C08;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.donate:hover{
+    max-width: 1200px;
+    margin: auto;
+    background-color: #FF7A00;
+    cursor: pointer;
+}
